@@ -1,5 +1,5 @@
 import "./about.css";
-import profile from "../../assets/SAHANA.jpeg";
+import profile from "../../assets/IMG20250511183640.jpg";
 
 const About = () => {
   return (
