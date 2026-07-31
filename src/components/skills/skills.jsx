@@ -17,6 +17,26 @@ const skills = [
     color: "#F7DF1E",
   },
   {
+    name: "Python",
+    level: 75,
+    color: "#F7DF1E",
+  },
+  {
+    name: "C++",
+    level: 75,
+    color: "#F7DF1E",
+  },
+  {
+    name: "C",
+    level: 75,
+    color: "#F7DF1E",
+  },
+  {
+    name: "JDK-Java",
+    level: 75,
+    color: "#F7DF1E",
+  },
+  {
     name: "React",
     level: 65,
     color: "#61DAFB",
